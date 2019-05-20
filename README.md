@@ -12,6 +12,7 @@ Options:
   -f FILE     Zip file to be cracked
   -d FILE     Wordlist
 ```
+Default wordlist is included - 1mm.txt
 
 ## Example :
 
